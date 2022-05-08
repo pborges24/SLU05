@@ -2,3 +2,4 @@
 - cheese
 - meat
 - eggs
+- paper
